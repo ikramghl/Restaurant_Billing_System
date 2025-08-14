@@ -11,16 +11,16 @@ This system allows restaurants to manage their menu, handle orders, generate bil
 ![Home Page](screenshots/homepage.png)
 
 ###  Takeaway / Dine-In + Payment Method
-![Takeaway or Dine In](screenshots/takeaway.png)
+![Takeaway or Dine In](screenshots/payment.png)
 
 ###  Admin – Menu Management
-![Admin Menu Management](screenshots/adminmenumanagement.png)
+![Admin Menu Management](screenshots/menu.png)
 
 ###  Admin – Table Management
-![Admin Table Management](screenshots/admintables.png)
+![Admin Table Management](screenshots/tables.png)
 
 ###  Order Summary
-![Order Summary](screenshots/ordersummary.png)
+![Order Summary](screenshots/order_summary.png)
 
 ---
 
