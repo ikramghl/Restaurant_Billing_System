@@ -1,7 +1,7 @@
 # 🍽 Restaurant Billing System
 
 A complete restaurant management and billing solution built with **Python**, **Streamlit**, and **SQLite**.  
-This system allows restaurants to manage their menu, handle orders, generate bills, and track sales reports — all in a simple, intuitive interface.
+This system allows restaurants to manage their menu, handle orders, generate bills, and track sales reports all in a simple, intuitive interface.
 
 ---
 
