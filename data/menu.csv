@@ -1,0 +1,30 @@
+item_name,category,price,gst,image
+Margherita Pizza,Main Course,850,5,Margherita_Pizza.jpg
+Spaghetti Carbonara,Main Course,1100,5,Spaghetti_Carbonara.jpg
+Fried Chicken,Main Course,950,5,Fried_Chicken.jpg
+Grilled Salmon with Herbs,Main Course,1300,5,Grilled_Salmon_with_Herbs.jpg
+Beef Steak with Pepper Sauce,Main Course,1450,5,Beef_Steak_with_Pepper_Sauce.jpg
+Vegetable Lasagna,Main Course,950,5,Vegetable_Lasagna.jpg
+Chicken Alfredo Pasta,Main Course,1050,5,Chicken_Alfredo_Pasta.jpg
+Mushroom Risotto,Main Course,1000,5,Mushroom_Risotto.jpg
+French Fries,Side Dish,350,5,French_Fries.jpg
+Caesar Salad,Side Dish,500,5,Caesar_Salad.jpg
+Garlic Bread,Side Dish,300,5,Garlic_Bread.jpg
+Stuffed Mushrooms,Side Dish,550,5,Stuffed_Mushrooms.jpg
+Roasted Vegetables,Side Dish,450,5,Roasted_Vegetables.jpg
+Cheese Balls,Side Dish,400,5,Cheese_Balls.jpg
+Tiramisu,Dessert,600,5,Tiramisu.jpg
+Cheesecake,Dessert,650,5,Cheesecake.jpg
+Matilda Chocolate Cake,Dessert,700,5,Matilda_Chocolate_Cake.jpg
+Lemon Tart,Dessert,550,5,Lemon_Tart.jpg
+Vanilla Crepes,Dessert,500,5,Vanilla_Crepes.jpg
+Molten Lava Cake,Dessert,750,5,Molten_Lava_Cake.jpg
+Fruit Salad,Dessert,450,5,Fruit_Salad.jpg
+Apple Pie,Dessert,550,5,Apple_Pie.jpg
+Ice Americano,Drink,250,5,Ice_Americano.jpg
+Matcha Latte,Drink,300,5,Matcha_Latte.jpg
+Banana Smoothie,Drink,350,5,Banana_Smoothie.jpg
+Orange Juice,Drink,400,5,Orange_Juice.jpg
+Cherry Coke,Drink,250,5,Cherry_Coke.jpg
+Iced Tea,Drink,300,5,Iced_Tea.jpg
+Sparkling Water,Drink,200,5,Sparkling_Water.jpg
